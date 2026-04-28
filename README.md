@@ -1,6 +1,7 @@
 # 🧮 Calculator Project
 
-![Project Preview](calculater%20pic.png)
+<img width="731" height="331" alt="calculater pic" src="https://github.com/user-attachments/assets/07465c56-d314-4639-ba30-de4bee7c7fba" />
+
 
 یہ ایک functional calculator ہے جو **HTML, CSS اور JavaScript** سے بنایا گیا ہے۔
 
