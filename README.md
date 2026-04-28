@@ -1,3 +1,5 @@
+<img width="731" height="331" alt="calculater pic" src="https://github.com/user-attachments/assets/8e773a45-139f-4657-a110-b3976b1acd47" />
+![Uploading calculater pic.png…]()
 # 🧮 Calculator Project
 
 یہ ایک simple calculator ہے جو **HTML, CSS اور JavaScript** سے بنایا گیا ہے۔
