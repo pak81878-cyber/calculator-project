@@ -1,20 +1,20 @@
-# Calculator Project
+# 🧮 Calculator Project
 
-یہ ایک simple calculator ہے جو HTML, CSS اور JavaScript سے بنایا گیا ہے۔
+یہ ایک simple calculator ہے جو **HTML, CSS اور JavaScript** سے بنایا گیا ہے۔
 
-## Features
-- Basic calculations (+, -, *, /)
-- Simple and clean UI
-- Fast performance
-
-## Live Demo
-(یہاں اپنا GitHub Pages link ڈالنا ہے)
+## ✨ Features
+- **Basic calculations:** جمع، تفریق، ضرب، اور تقسیم (+, -, *, /)۔
+- **Clean UI:** سادہ اور بہترین ڈیزائن۔
+- **Fast performance:** تیز رفتار اور استعمال میں آسان۔
 
 ## 🚀 Live Demo
-👉 https://pak81878-cyber.github.io/calculator-project/
-1. Numbers پر click کریں
-2. Operation select کریں
-3. = دبائیں اور result دیکھیں
+آپ یہاں کلک کر کے اسے چلا کر دیکھ سکتے ہیں:
+👉 [Click Here to View Live](https://pak81878-cyber.github.io/calculator-project/)
 
-## Author
-pak81878-cyber
+## 📝 استعمال کرنے کا طریقہ (How to Use)
+1. نمبرز (Numbers) پر **Click** کریں۔
+2. اپنی پسند کا **Operation** (+, -, *, /) منتخب کریں۔
+3. **=** کا بٹن دبائیں اور رزلٹ دیکھیں۔
+
+## 👤 Author
+**pak81878-cyber**
